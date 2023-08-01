@@ -5,7 +5,7 @@ project:
   # description:
   keywords: []
   authors: []
-  github: https://github.com/kolibril13/kolibril13hub.io.git
+  github: https://github.com/kolibril13/kolibril13.github.io
   # bibliography: []
 site:
   template: book-theme
